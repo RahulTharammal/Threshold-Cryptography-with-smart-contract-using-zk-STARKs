@@ -39,9 +39,6 @@ To get started with this project, follow these steps:
 
 - **Example Usage**: The repository includes Threshold Cryptography with zk-STARKs in smart contracts.
 
-## Contributing
-
-Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
